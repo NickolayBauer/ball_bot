@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import telebot
 import random
-bot = telebot.TeleBot("483430314:AAEv73Q6-IN7FS06pLL0FgukLsep4ZpmRp4")
+bot = telebot.TeleBot("TOKEN")
 
 mass_word = ['нет',
              'возможно',
